@@ -1,2 +1,1 @@
-# nextjs-authentication
-🚀 Secure login into your nextjs web applications with next auth.
+## Nextjs Authentication using Next Auth
